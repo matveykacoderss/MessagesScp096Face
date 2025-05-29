@@ -8,7 +8,7 @@ namespace MessegeFaca096
 {
     public class Plugin : Plugin<Config>
     {
-        public override string Author => "acac";
+        public override string Author => "default.java and AntiCheats";
         public override string Name => "SCP-096 Face Alert";
         public override Version Version => new Version(1, 0, 1);
         public override string Prefix => "096FaceAlert";
